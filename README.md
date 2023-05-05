@@ -11,15 +11,6 @@ I'm a web developer from Argentina with experience in LAPM stack.
 Flexible, reliable, with an assertive communication style and willing to meet challenges.
 
 _______________
-
-## PROJECTS:
-
-📌 SOON
-
-🚀 Technologies: SOON
-
-👽 Link: SOON
-
 ## Languages and Tools:
 
 Front
